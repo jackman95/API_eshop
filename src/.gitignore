@@ -1,0 +1,19 @@
+
+# Ignorovat všechny __pycache__ složky
+**/__pycache__/
+
+# Ignorovat všechny soubory .pyc
+*.pyc
+
+
+# Nenahrávat migrace pythonu
+**/migrations/
+
+
+*.sqlite3
+db.sqlite3
+
+
+venv/
+
+
